@@ -7,7 +7,7 @@ This repository showcases an **end-to-end data** warehousing and analytics solut
 # 🏗️ Data Architecture
 There are several types of ***Data Warehouse Architecture*** - (~~Inmon~~,~~Kimball~~,~~Data Vault~~,Medallion). In this project, Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 
-![alt text](image.jpg)
+![Data Architecture](https://github.com/onwecdavid/sql-data-warehouse-project/blob/main/docs/sql_warehouse_data_architecture.png)
 
 1. **Bronze Layer** - Stores raw data directly from source systems. Data is ingested from CSV files into a SQL Server database.  
 2. **Silver Layer** - Cleans, standardizes, and normalizes data to ensure consistency and prepare it for analysis.  
