@@ -102,3 +102,19 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+
+***
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You can use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **David Onwe**, also known as **Kalinytics**. Bridging Data Insights with Business Strategy with technical Speciality, I transform complex data into clear, actionable intelligence to drive informed decisions. Specialize in data analysis and visualization, and translation of insights into business value. Let us unlock your data to help you achieve your strategic objectives.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidonwe/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://davidonwe.netlify.app/)
+[![Medium](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://medium.com/@onwecdavid)
